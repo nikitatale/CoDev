@@ -207,7 +207,7 @@ function App() {
         >
           <div className="flex items-center gap-2 p-4 border-b border-gray-800">
             <Users size={18} className="text-rose-400" />
-            <h2 className="text-white font-semibold">Online — {users.length}</h2>
+            <h2 className="text-white font-semibold">Online - {users.length}</h2>
           </div>
           <ul className="p-3 flex flex-col gap-2 overflow-y-auto">
             {users.length === 0 && (
