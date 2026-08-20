@@ -12,6 +12,9 @@ It uses **Yjs CRDTs** to maintain consistent shared state and automatically reso
 
 
 ![CoDev Collaboration](./frontend/public/demo2.png)
+
+
+![CoDev Collaboration](./frontend/public/demo3.png)
 ---
 
 ## ✨ Features
