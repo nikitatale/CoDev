@@ -6,6 +6,14 @@ It uses **Yjs CRDTs** to maintain consistent shared state and automatically reso
 
 ---
 
+## 📸 Screenshots
+
+![CoDev Editor](./frontend/public/demo.png)
+
+
+![CoDev Collaboration](./frontend/public/demo2.png)
+---
+
 ## ✨ Features
 
 * 👥 **Real-time Collaboration**
@@ -321,14 +329,6 @@ Some features that can be added in future versions:
 * 📜 Version history
 * 🔗 Shareable collaboration links
 
----
-
-## 📸 Screenshots
-
-![CoDev Editor](./frontend/public/demo.png)
-
-
-![CoDev Collaboration](./frontend/public/demo2.png)
 ---
 
 ## 🤝 Contributing
